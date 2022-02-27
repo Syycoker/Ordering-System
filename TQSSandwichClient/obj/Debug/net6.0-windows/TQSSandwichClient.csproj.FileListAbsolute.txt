@@ -1,0 +1,38 @@
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.exe
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.deps.json
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.runtimeconfig.json
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.dll
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\ref\TQSSandwichClient.dll
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.pdb
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.AssemblyReference.cache
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichSystem.ClientForm.resources
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.GenerateResource.cache
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.AssemblyInfoInputs.cache
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.AssemblyInfo.cs
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.CoreCompileInputs.cache
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.CopyComplete
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.dll
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\ref\TQSSandwichClient.dll
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.pdb
+C:\Users\coker\source\repos\TQSSandwichSystem\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.genruntimeconfig.cache
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.exe
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.deps.json
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.runtimeconfig.json
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.dll
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\ref\TQSSandwichClient.dll
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\TQSSandwichClient.pdb
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.AssemblyReference.cache
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichSystem.ClientForm.resources
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.GenerateResource.cache
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.AssemblyInfoInputs.cache
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.AssemblyInfo.cs
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.CoreCompileInputs.cache
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.csproj.CopyComplete
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.dll
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\ref\TQSSandwichClient.dll
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.pdb
+C:\Users\Sylas Coker\source\repos\Backend---Frontend-System\TQSSandwichSystem\obj\Debug\net6.0-windows\TQSSandwichClient.genruntimeconfig.cache
