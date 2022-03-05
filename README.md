@@ -1,6 +1,23 @@
 # Ordering System
 This project consists of two applictions; TQSSandwichServer & TQSSandwichClient.
 
+Here's the timeline in pictures.
+
+## Fig 1
+![Starting the server...](https://sylascoker.co.uk/img/serverStart.PNG)
+
+## Fig 2
+![Projects are connected...](https://sylascoker.co.uk/img/projectsConnected.PNG)
+
+## Fig 3
+![Order has been sent...](https://sylascoker.co.uk/img/orderSent.PNG)
+
+## Fig 4
+![Order has been recieved...](https://sylascoker.co.uk/img/orderRecieved.PNG)
+
+## Fig 5
+![Order printed response...](https://sylascoker.co.uk/img/printResponse.PNG)
+
 ## Overview
 The server establishes a connection to any and all clients looking to connect. The client attempts to establish a connnection to the server and if unsuccessful, it spawns a single thread and its sole purpose is to attempt to establish a connection to the server every 'x' seconds, if successful (connected) the thread is then disposed.
 
